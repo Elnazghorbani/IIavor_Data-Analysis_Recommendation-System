@@ -1,0 +1,1 @@
+In this repository, the codes for the data analytics and building a recommendation system based on a real case study provided by IIavor company has been provided. The data is the informoation of students, and the goal is to recommend a master major to the bachelor students based on the profile of the previous students.
